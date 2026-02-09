@@ -18,7 +18,7 @@ This app simulates a simple but realistic **agent pipeline**:
 Everything is visible and interactive in the UI.
 
 ---
-
+## LIVE DEMO [https://educational-content-generator-reviewer-agent-q7hqgsdwer75kxtpr.streamlit.app/]
 ## 🚀 Live Demo Flow (Interactive)
 
 
@@ -68,3 +68,4 @@ pip install -r requirements.txt
 
 3️⃣ Run the app
 streamlit run app.py
+
